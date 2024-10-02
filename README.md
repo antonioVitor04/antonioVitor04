@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @antonioVitor04
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate by my knowledges and experiencies 
-- 📫 You can reach me by email: antonionapoli394@gmail.com and linkedin: https://www.linkedin.com/in/ant%C3%B4nio-v%C3%ADtor-bozzo-de-napoli-2927a0323/
-- 😄 Pronouns: he/him
-- ⚡ I love eating hamburguer 🍔
+## Olá! Eu sou o Antônio Vítor
+
+<p> Sou um estudante de Ciência da Computação do Instituto Mauá de Tecnologia e atualmente estou cursando o 2° semestre. Gosto de interagir com pessoas novas, tenho facilidade em aprender coisas novas(e gosto) e, também, busco a resolução de problemas usando novas ideias e métodos. Meus principais interesses incluem o <strong> desenvolvimento fullstack </strong>, <strong> Ciência de Dados </strong> e <strong> computação em nuvem com AWS </strong>! 🚀 <p>
+
 
 <!---
 antonioVitor04/antonioVitor04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,11 +21,16 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioVitor04&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioVitor04&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=antonioVitor04&theme=radical)](https://git.io/streak-stats)
+<div>
+  <a href="https://github.com/antonioVitor04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioVitor04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioVitor04&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=antonioVitor04s&theme=tokyonight"/>
+</div>
 
 
