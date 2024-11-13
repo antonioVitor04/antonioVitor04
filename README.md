@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=A020F0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Antônio!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=3A9EF0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Antônio!;" />
 </h1>
 <div align="center">
   <p> Sou um estudante de Ciência da Computação do Instituto Mauá de Tecnologia e atualmente estou cursando o 2° semestre. Gosto de interagir com pessoas novas, tenho facilidade em aprender coisas novas(e gosto) e, também, busco a resolução de problemas usando novas ideias e métodos. Meus principais interesses incluem o <strong> desenvolvimento fullstack </strong>, <strong> Ciência de Dados </strong> e <strong> computação em nuvem com AWS </strong>! 🚀 <p>
@@ -13,13 +13,16 @@
   
   ### Languages and Tools:
   
+###  🔧 Languages and Tools:
+
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED272C?style=for-the-badge&logo=java&logoColor=white) <br>
+  ![MySQL](https://img.shields.io/badge/-MySQL-063666?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
   ## GitHub Stats:
   
