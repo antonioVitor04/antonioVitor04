@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=3A9EF0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Antônio Vitor!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=A020F0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Antônio!;" />
 </h1>
 <div align="center">
   <p> Sou um estudante de Ciência da Computação do Instituto Mauá de Tecnologia e atualmente estou cursando o 2° semestre. Gosto de interagir com pessoas novas, tenho facilidade em aprender coisas novas(e gosto) e, também, busco a resolução de problemas usando novas ideias e métodos. Meus principais interesses incluem o <strong> desenvolvimento fullstack </strong>, <strong> Ciência de Dados </strong> e <strong> computação em nuvem com AWS </strong>! 🚀 <p>
