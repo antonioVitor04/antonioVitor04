@@ -9,7 +9,7 @@
   ### Connect with me:
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ant%C3%B4nio-v%C3%ADtor-bozzo-de-napoli-2927a0323/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&log
+   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/antonio.vitorr_/)
   
 ###  🔧 Languages and Tools:
 
