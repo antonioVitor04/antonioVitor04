@@ -7,20 +7,63 @@
 
 
   ### Connect with me:
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-v%C3%ADtor-bozzo-de-napoli-2927a0323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="mailto:antonionapoli394@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ant%C3%B4nio-v%C3%ADtor-bozzo-de-napoli-2927a0323/)
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/antonio.vitorr_/)
   
 ###  🔧 Languages and Tools:
+<div align="center">
+  
+  <!-- Linha 1 -->
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" />
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED272C?style=for-the-badge&logo=java&logoColor=white) <br>
-  ![MySQL](https://img.shields.io/badge/-MySQL-063666?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <!-- Quebra -->
+  <br />
+  <br />
+
+  <!-- Linha 2 -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian logo" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="50" alt="trello logo" />
+</div>
   
   ## GitHub Stats:
   
@@ -33,6 +76,5 @@
   </div>
 </div>
 
-<img src="https://raw.githubusercontent.com/antonioVitor04/antonioVitor04/output/snake.svg" alt="Snake animation" />
 
 
